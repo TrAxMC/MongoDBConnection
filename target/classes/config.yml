@@ -1,0 +1,8 @@
+MongoDB:
+  Host: ' '
+  Port: 27017
+  Database: ' '
+  User: ' '
+  Password: ' '
+  Boolean: false
+  LocalHost: false

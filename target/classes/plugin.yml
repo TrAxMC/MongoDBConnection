@@ -2,4 +2,3 @@ name: MDBConnection
 version: 1.0.0
 author: FrameDev
 main: de.framedev.mongodbconnections.main.Main
-api-version: 1.14
